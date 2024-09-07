@@ -12,7 +12,6 @@ import { ActionTooltip } from "@/components/action-tooltip";
 import { Edit, FileIcon, ShieldAlert, ShieldCheck, Trash } from "lucide-react";
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import path from "path";
 import { cn } from "@/lib/utils";
 
 import {

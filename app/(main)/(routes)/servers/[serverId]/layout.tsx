@@ -22,7 +22,7 @@ const ServerIdLayout = async ({
             id: params.serverId,
             members: {
                 some: {
-                    profileId: profile.id
+                    profileId: profile.id 
                 }
             }
         }
